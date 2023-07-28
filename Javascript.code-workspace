@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../Javascript"
+		},
+		{
+			"path": "../../../FrontEnd Foundations"
+		},
+		{
+			"path": "../../../My Secrets"
+		},
+		{
+			"path": "../../../Express-Course"
+		},
+		{
+			"path": "../../../FEFReact"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../MyCordovaApps"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RWD"
+	}
+}
